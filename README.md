@@ -29,4 +29,4 @@ A web application showcasing the inner workings of various sorting algorithms.
 ## Usage
 Simply open `index.html` in your web browser. Adjust the array size, choose your visualization speed, select a sorting algorithm, and watch the visualization!
 
-👉 **[Click here to view the live project](https://Sresthkh.github.io/Sorting-visualizer/)** *(Note: Make sure GitHub Pages is enabled in your repository settings)*
+👉 **[Click here to view the live project](https://Sresthkh.github.io/Sorting-visualizer/)**
