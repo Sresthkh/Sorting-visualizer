@@ -1,9 +1,4 @@
-/*
-    *****************
-    DONE BY:-   Sresth khandelwal
-    
-    *****************
-*/
+
 
 function Merge()
 {
@@ -73,9 +68,4 @@ function merge_partition(start,end)
     }
 }
 
-/*
-    *****************
-    DONE BY:-   Sresth khandelwal
-    
-    *****************
-*/
+

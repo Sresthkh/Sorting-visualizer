@@ -1,9 +1,4 @@
-/*
-    *****************
-    DONE BY:-   Sresth khandelwal
-    
-    *****************
-*/
+
 
 /*
 Variable naming convention: <object>_<action>_<objectname>; Example -> Button_click_b1;
@@ -95,9 +90,4 @@ function runalgo()
     }
 }
 
-/*
-    *****************
-    DONE BY:-   Sresth khandelwal
-    
-    *****************
-*/
+

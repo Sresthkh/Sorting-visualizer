@@ -1,9 +1,4 @@
-/*
-    *****************
-    DONE BY:-   Sresth khandelwal
-    
-    *****************
-*/
+
 
 function Quick()
 {
@@ -80,9 +75,4 @@ function quick_sort (start, end )
     }
  }
 
-/*
-    *****************
-    DONE BY:-   Sresth khandelwal
-    
-    *****************
-*/
+

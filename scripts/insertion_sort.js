@@ -1,9 +1,4 @@
-/*
-    *****************
-    DONE BY:-   Sresth khandelwal
-    
-    *****************
-*/
+
 
 function Insertion()
 {
@@ -56,9 +51,4 @@ function Insertion()
     enable_buttons();
 }
 
-/*
-    *****************
-    DONE BY:-   Sresth khandelwal
-    
-    *****************
-*/
+

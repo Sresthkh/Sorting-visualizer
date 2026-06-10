@@ -1,9 +1,4 @@
-/*
-    *****************
-    DONE BY:-   Sresth khandelwal
-    
-    *****************
-*/
+
 
 function Bubble()
 {
@@ -44,9 +39,4 @@ function Bubble()
     enable_buttons();
 }
 
-/*
-    *****************
-    DONE BY:-   Sresth khandelwal
-    
-    *****************
-*/
+

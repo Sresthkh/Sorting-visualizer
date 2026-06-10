@@ -1,9 +1,4 @@
-/*
-    *****************
-    DONE BY:-   Sresth khandelwal
-    
-    *****************
-*/
+
 
 function Heap()
 {
@@ -97,9 +92,4 @@ function heap_sort()
     div_update(divs[i],div_sizes[i],"green");//Color update
 }
 
-/*
-    *****************
-    DONE BY:-   Sresth khandelwal
-    
-    *****************
-*/
+
